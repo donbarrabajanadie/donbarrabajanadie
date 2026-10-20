@@ -83,4 +83,4 @@ Prácticas académicas de diseño de flujos de datos y trabajo con herramientas 
 
 ---
 
-📫 **Contacto:** añade aquí tu enlace de LinkedIn o tu correo profesional si quieres mostrarlo públicamente.
+📫 **Contacto:** https://www.linkedin.com/in/mario-monasterio-d%C3%ADaz-b5a8493ba/
